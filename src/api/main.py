@@ -16,4 +16,4 @@ middleware = [
 
 app = FastAPI(middleware=middleware)
 
-app.include_router(api_router, prefix='/icem_api')
+app.include_router(api_router, prefix='/ikem_api')

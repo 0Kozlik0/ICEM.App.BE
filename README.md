@@ -11,3 +11,12 @@
 ### Production
 
 ## Docker
+
+### Local
+`docker-compose -f docker/docker-compose.dev.yml up`
+
+for rebuild
+
+`docker-compose -f docker/docker-compose.dev.yml up --build`
+
+### Production
