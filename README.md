@@ -1,5 +1,13 @@
 # ICEM Application (Backend)
 
+## How to access endpoints
+
+Example:
+`http://localhost:8000/ikem_api/test`
+
+Links for endpoints documentation (server needst to be started first): `http://localhost:8000/docs/`
+
+
 ## How to start application?
 
 ### Local

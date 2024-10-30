@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from starlette.middleware import Middleware
 from starlette.middleware.cors import CORSMiddleware
 
-from src.api.api.api import api_router
+from src.api.api import api_router
 
 middleware = [
     Middleware(
